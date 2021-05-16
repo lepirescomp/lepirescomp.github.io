@@ -20,10 +20,10 @@
 
 title: Readability Counts
 email: lepiresdev@gmail.com
-description: Hey there, my name is Letícia Pires. I'm computer scientist
-              and Software Engineer. Here, 
-              I post about Software Engineering,
-              Python, Django and Data Science stuff. 
+description: Hey there, my name is Letícia Pires.
+            I'm Computer Scientist and Software Engineer.
+            Here, I post mostly about Software Engineering,
+            Python, Django and Data Science stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "lepirescomp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: leticiaflorentinopires

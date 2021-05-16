@@ -13,4 +13,4 @@ Hey there, my name is Letícia Pires. I'm Computer Scientist and Software Engine
 
 Here, I post mostly about Software Engineering, Python, Django and Data Science stuff. 
 
-I use to write the posts in Portuguese or in English.
+I use to write the posts in Portuguese (🇧🇷) or in English (🇬🇧).

@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "def get_self_request def_create_self_request. Mas, afinal, o que é request?"
+title:  🇧🇷 "def get_self_request def_create_self_request. Mas, afinal, o que é request?"
 date:   2021-05-16 14:04:26 -0300
 categories: jekyll update
 ---
+
 Uma parte essencial da funcionamento da internet como a temos em nosso cotidiano diz respeito à requests. Nesse artigo vamos discorrer sobre requests, sua importância, em que parte do fluxo de comunicação entre sistemas ela se encaixa, e finalmente, como ela existe no contexto do Django.
 
 
