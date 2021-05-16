@@ -1,18 +1,16 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+![leticia](leticia.jpg){:class="img-responsive"}
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+Hey there, my name is Letícia Pires. I'm computer scientist and Software Engineer.
+
+
+Here, I post mostly about Software Engineering, Python, Django and Data Science stuff. 
+
+I use to write the posts in Portuguese or in English.
