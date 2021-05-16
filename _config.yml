@@ -26,7 +26,7 @@ description: Hey there, my name is Letícia Pires. I'm computer scientist
               Python, Django and Data Science stuff. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "lepirescomp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: lepires_dev
+linkedin_username: leticiaflorentinopires
 github_username:  lepirescomp
 
 # Build settings
