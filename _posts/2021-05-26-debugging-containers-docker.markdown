@@ -10,7 +10,7 @@ de containers.
 
 Aqui vou deixar alguns dos comandos que mais me ajudam no dia a dia:
 
-## Para ver o id dos docker process
+## IDs dos docker processess
 
 
 ```sh
@@ -21,7 +21,7 @@ Encontrar o id do container ajuda em várias etapas
 
 ![image](../../../../../../images/post_docker/docker_ps.jpeg)
 
-## Para ver o log do container
+## Log do container
 
 ```sh
 docker logs
@@ -31,7 +31,7 @@ Esse comando, por exemplo, indicar um erro em um arquivo que impediu a aplicaç�
 
 ![image](../../../../../../images/post_docker/docker_ps.jpeg)
 
-## Para ver os detalhes dos docker objects
+## Detalhes dos docker objects
 
 ```sh
 docker inspect
