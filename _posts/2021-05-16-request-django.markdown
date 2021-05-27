@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  🇧🇷 "def get_self_request def_create_self_request. Mas, afinal, o que é request?"
+title:  🇧🇷 def get_self_request def_create_self_request. Mas, afinal, o que é request?
 date:   2021-05-16 14:04:26 -0300
 categories: jekyll update
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  🇧🇷 "Ferramentas para fazer Diagramas"
+title:  🇧🇷 Ferramentas para fazer Diagramas
 date:   2021-05-16 18:47:26 -0300
 categories: jekyll update
 ---

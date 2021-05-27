@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  🇧🇷 "Comandos que ajudam no debugging de docker containers"
+title:  🇧🇷 Comandos que ajudam no debugging de docker containers
 date:   2021-05-26 14:04:26 -0300
 categories: jekyll update
 ---
