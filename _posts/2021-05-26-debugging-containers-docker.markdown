@@ -17,7 +17,7 @@ Aqui vou deixar alguns dos comandos que mais me ajudam no dia a dia:
 docker ps
 ```
 
-Encontrar o id do container ajuda em várias etapas
+Encontrar o id do container é necessário em várias etapas quando estamos usando containers.
 
 ![image](../../../../../../images/post_docker/docker_ps.jpeg)
 
